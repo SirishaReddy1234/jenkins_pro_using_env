@@ -6,7 +6,7 @@ app = Flask(__name__)
 def welcome():
     return """
     <html>
-        <body style="background-color: lightblue;">
+        <body style="background-color: blue;">
             <h1 style="text-align: center; color: white;">Welcome to my web page!</h1>
         </body>
     </html>
